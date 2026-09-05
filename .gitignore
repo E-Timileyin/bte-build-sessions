@@ -1,0 +1,9 @@
+# OS noise
+.DS_Store
+Thumbs.db
+
+# Local environment and secrets
+.env
+.env.*
+*.local
+*.log
