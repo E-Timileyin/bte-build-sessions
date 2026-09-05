@@ -21,7 +21,7 @@ git config --global user.email "you@example.com"
 
 ## The contribution steps
 
-Follow these nine steps and you will have a pull request open.
+Follow these eight steps and you will have a pull request open.
 
 1. Fork the repository to your own account. The Fork button is at the top right of the repo page.
 2. Clone your fork:
